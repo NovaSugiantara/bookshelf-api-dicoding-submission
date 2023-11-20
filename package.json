@@ -1,0 +1,22 @@
+{
+  "name": "bookshelf-api-dicoding-submission",
+  "version": "1.0.0",
+  "description": "Dicoding Submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovaSugiantara/bookshelf-api-dicoding-submission.git"
+  },
+  "keywords": [
+    "bookshelf"
+  ],
+  "author": "novasugiantara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NovaSugiantara/bookshelf-api-dicoding-submission/issues"
+  },
+  "homepage": "https://github.com/NovaSugiantara/bookshelf-api-dicoding-submission#readme"
+}
